@@ -5,3 +5,5 @@
  </div>
 
 
+## APK file
+[APK FILE](https://drive.google.com/file/d/1F4UkwqWG-_mv6LvjxYhDipiRqLN_lvKL/view?usp=sharing)
